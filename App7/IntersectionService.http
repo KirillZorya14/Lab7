@@ -1,0 +1,6 @@
+@IntersectionService_HostAddress = http://localhost:5013
+
+GET {{IntersectionService_HostAddress}}/intersection/
+Accept: application/json
+
+###

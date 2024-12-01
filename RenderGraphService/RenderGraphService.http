@@ -1,0 +1,6 @@
+@RenderGraphService_HostAddress = http://localhost:5218
+
+GET {{RenderGraphService_HostAddress}}/graph/
+Accept: application/json
+
+###

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionService", "App7\IntersectionService.csproj", "{12A38506-868C-4849-929C-82DBCDFCEA4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderGraphService", "RenderGraphService\RenderGraphService.csproj", "{DDB648B6-5E18-4BEB-840F-62A137132C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{59967F31-1001-4694-AE0A-E625C96EE671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A38506-868C-4849-929C-82DBCDFCEA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A38506-868C-4849-929C-82DBCDFCEA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A38506-868C-4849-929C-82DBCDFCEA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A38506-868C-4849-929C-82DBCDFCEA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB648B6-5E18-4BEB-840F-62A137132C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB648B6-5E18-4BEB-840F-62A137132C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB648B6-5E18-4BEB-840F-62A137132C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB648B6-5E18-4BEB-840F-62A137132C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59967F31-1001-4694-AE0A-E625C96EE671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59967F31-1001-4694-AE0A-E625C96EE671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59967F31-1001-4694-AE0A-E625C96EE671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59967F31-1001-4694-AE0A-E625C96EE671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
